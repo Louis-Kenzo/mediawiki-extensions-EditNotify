@@ -10,7 +10,7 @@ class EditNotifyHooks {
 		//Echo notification for page edit
 		$echoNotifications['edit-notify-page-create'] = array(
 			'category' => 'system',
-			'section' => 'alert',
+			'section' => 'message',
 			'primary-link' => array(
 				'message' => 'editnotify-primary-message',
 				'destination' => 'title'
@@ -30,7 +30,7 @@ class EditNotifyHooks {
 		//Echo notification for page edit
 		$echoNotifications['edit-notify'] = array(
 		    'category' => 'system',
-		    'section' => 'alert',
+		    'section' => 'message',
 		    'primary-link' => array(
 				'message' => 'editnotify-primary-message',
 				'destination' => 'title'
@@ -50,7 +50,7 @@ class EditNotifyHooks {
 		//echo notification for namespace in non template page
 		$echoNotifications['edit-notify-namespace'] = array(
 		    'category' => 'system',
-		    'section' => 'alert',
+		    'section' => 'message',
 		    'primary-link' => array(
 				'message' => 'editnotify-primary-message',
 				'destination' => 'title'
@@ -70,7 +70,7 @@ class EditNotifyHooks {
 		//echo notification for included categories in non template page
 		$echoNotifications['edit-notify-category'] = array(
 		    'category' => 'system',
-		    'section' => 'alert',
+		    'section' => 'message',
 		    'primary-link' => array(
 				'message' => 'editnotify-primary-message',
 				'destination' => 'title'
@@ -89,7 +89,7 @@ class EditNotifyHooks {
 		//Echo notification for template change
 		$echoNotifications['edit-notify-template'] = array(
 		    'category' => 'system',
-		    'section' => 'alert',
+		    'section' => 'message',
 		    'primary-link' => array(
 				'message' => 'editnotify-primary-message',
 				'destination' => 'title'
@@ -109,7 +109,7 @@ class EditNotifyHooks {
 		//echo notification for namespace in template page
 		$echoNotifications['edit-notify-template-namespace'] = array(
 		    'category' => 'system',
-		    'section' => 'alert',
+		    'section' => 'message',
 		    'primary-link' => array(
 				'message' => 'editnotify-primary-message',
 				'destination' => 'title'
@@ -128,7 +128,7 @@ class EditNotifyHooks {
 		//echo notification for included categories in template page
 		$echoNotifications['edit-notify-template-category'] = array(
 		    'category' => 'system',
-		    'section' => 'alert',
+		    'section' => 'message',
 		    'primary-link' => array(
 				'message' => 'editnotify-primary-message',
 				'destination' => 'title'
@@ -147,7 +147,7 @@ class EditNotifyHooks {
 		//notifiation for template field name to specific template value for all pages
 		$echoNotifications['edit-notify-template-value'] = array(
 		    'category' => 'system',
-		    'section' => 'alert',
+		    'section' => 'message',
 		    'primary-link' => array(
 				'message' => 'editnotify-primary-message',
 				'destination' => 'title'
@@ -166,7 +166,7 @@ class EditNotifyHooks {
 		//notification for change in template field to a specific template value in a namespace
 		$echoNotifications['edit-notify-template-value-namespace'] = array(
 		    'category' => 'system',
-		    'section' => 'alert',
+		    'section' => 'message',
 		    'primary-link' => array(
 				'message' => 'editnotify-primary-message',
 				'destination' => 'title'
@@ -185,7 +185,7 @@ class EditNotifyHooks {
 		//notification for change in template field to a specific template value in a category
 		$echoNotifications['edit-notify-template-value-category'] = array(
 			'category' => 'system',
-			'section' => 'alert',
+			'section' => 'message',
 			'primary-link' => array(
 				'message' => 'editnotify-primary-message',
 				'destination' => 'title'
