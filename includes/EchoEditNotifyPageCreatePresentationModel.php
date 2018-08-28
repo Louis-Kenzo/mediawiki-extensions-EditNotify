@@ -3,7 +3,7 @@
 
 class EchoEditNotifyPageCreatePresentationModel extends EchoEventPresentationModel {
 	public function getIconType() {
-		return 'placeholder';
+		return 'editnotify-create';
 	}
 	public function getPrimaryLink() {
 		return array(

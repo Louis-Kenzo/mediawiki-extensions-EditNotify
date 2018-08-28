@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Louis-Kenzo Cahier"
+		]
+	},
+	"editnotify-desc": "Extension MediaWiki de notifications d'évènements de création et modification de pages, basé sur l'extension Echo",
+	"editnotify-page-edit-label": "Voir les changements",
+	"editnotify-title-message": "Page modifiée",
+	"editnotify-title-message-create": "Page crée",
+	"editnotify-flyout-message": "Notification d'édition de page",
+	"editnotify-flyout-message-create": "Notification de création de page",
+	"editnotify-primary-message": "Voir la page:",
+	"editnotify-email-subject-message": "La page «$2» a été modifiée",
+	"editnotify-email-subject-message-create": "La page «$2» a été crée",
+	"editnotify-email-subject-message-template": "Page «$2»: valeur de «$3» changée à «$4»",
+	"editnotify-email-body-message": "Une modification a été faite sur la page «$1». Vous recevez cette notification car vous suivez l'activité de «$2».",
+	"editnotify-email-body-message-create": "La page «$1» a été crée. Vous recevez cette notification car vous suivez les créations de pages.",
+	"editnotify-email-body-message-template": "La valeur de «$1» est passée de «$2» à «$3» dans le template «$4» sur la page «$5». Vous recevez cette notification car vous suivez l'activité de «$6».",
+	"notification-header-edit-notify-create": "«$3» crée",
+	"notification-header-edit-notify-edit-major": "«$3» modifiée",
+	"notification-header-edit-notify-edit-minor": "«$3» modifiée"
+}
